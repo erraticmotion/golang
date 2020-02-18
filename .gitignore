@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+**/**/hello
+**/github.com
+**/gopkg.in
+**/pkg
+**/*.gz
+**/waiig_code_1.4
