@@ -1,6 +1,4 @@
-# Gip (Go In Practice)
-
-Source code from the [Go In Practice][book] book.
+# Go
 
 ## Install Go
 
@@ -45,5 +43,3 @@ cd src
 -- add code project source code files
 -- then Go will create /bin and /package directories when required.
 ```
-
-[book]: https://www.amazon.co.uk/Go-Practice-Matt-Butcher/dp/1633430073/ref=sr_1_1
