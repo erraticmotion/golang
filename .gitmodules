@@ -1,0 +1,15 @@
+[submodule "lib/fnproject/cli"]
+	path = lib/fnproject/cli
+	url = https://github.com/fnproject/cli.git
+[submodule "lib/fnproject/fn_go"]
+	path = lib/fnproject/fn_go
+	url = https://github.com/fnproject/fn_go.git
+[submodule "lib/fnproject/tutorials"]
+	path = lib/fnproject/tutorials
+	url = https://github.com/fnproject/tutorials.git
+[submodule "lib/fnproject/fn"]
+	path = lib/fnproject/fn
+	url = https://github.com/fnproject/fn.git
+[submodule "lib/fnproject/fdk_go"]
+	path = lib/fnproject/fdk_go
+	url = https://github.com/fnproject/fdk-go.git
