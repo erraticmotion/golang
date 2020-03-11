@@ -28,15 +28,3 @@ eval "$(direnv hook bash)"
 -- save and exit
 exec bash
 ```
-
-## Fn cli
-
-```console
-curl -LSs https://raw.githubusercontent.com/fnproject/cli/master/install | sh
-fn start
-
--- new terminal window
-fn version
-```
-
-[fn]: https://github.com/fnproject/tutorials/blob/master/README.md
